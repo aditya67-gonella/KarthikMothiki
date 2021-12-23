@@ -1,6 +1,6 @@
 # Profile Code
 
-dev_name = "Karthik Mothiki"
+dev_name = "Gonella Venkata Rama Aditya Ganesh"
 
 def developer_details():
     print("Developer Name : ", dev_name)
